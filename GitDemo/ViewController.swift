@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         print("Hello world")
+        print("New feature branch")
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
